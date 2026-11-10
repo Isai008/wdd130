@@ -1,0 +1,32 @@
+nav {
+    background-color: chocolate;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    display: block;
+    /*The display will change from the default of inline to block.*/
+    padding: 10px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    border: 1px solid black;
+    /*A border shorthand that sets the width,
+        type of border,
+        and color of the border.*/
+    padding: 2px;
+    /*Padding between the image and the border.*/
+    box-sizing: 0 0 30px gray;
+    /*A box shadow around the image border with zero offset and a 30px blur in gray.*/
+}
+
+p {
+    padding: 10px;
+}
