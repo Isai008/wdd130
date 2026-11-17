@@ -23,7 +23,7 @@ main img {
         and color of the border.*/
     padding: 2px;
     /*Padding between the image and the border.*/
-    box-sizing: 0 0 30px;
+    box-sizing: 0 0 30 gray;
     /*A box shadow around the image border with zero offset and a 30px blur in gray.*/
 }
 
